@@ -28,12 +28,12 @@ print("my best code !")
 
 test tableau
 
-| Nom          | Portfolio         | Appreciation |
-|:-------------|:------------------|:-------------|
-| ok           | https://bbaranoff.github.io | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Nom          | Portfolio                                       | Appreciation |
+|--------------|-------------------------------------------------|--------------|
+| ok           | [Bastien Baranoff](https://bbaranoff.github.io) | quite good  |
+| out of stock | good and plenty                                 | nice  |
+| ok           | good `oreos`                                    | hmm   |
+| ok           | good `zoute` drop                               | yumm  |
 
 ### Github
 
