@@ -35,7 +35,7 @@ print("my best code !")
 | ...         |  [Mathieu Simon](https://w3ver.github.io)          | good    |
 | ...         |  [Jean Antoine Gimenez](https://jean-antoine-gimenez.github.io)          | good     |
 | ...         |  [Arnaud Bonnefoi](https://arnaud-iut.github.io)          | good      |
-| ...         |  [Clement Maurel](https://arnaud-iut.github.io)          | good  |
+| ...         |  [Clement Maurel](https://clementmaurel.github.io)          | good  |
 | ...         |  [Luca Onali](https://luca-onali.github.io)          | good |
 | ...         |  [Brusny Ndala](https://brusny.github.io)          |good  |
 | ...         | [Danielle Tongue](https://danielletongue.github.io) | good |
