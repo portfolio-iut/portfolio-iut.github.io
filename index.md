@@ -29,10 +29,18 @@ print("my best code !")
 | Nom         | Portfolio                                       | Appreciation   |
 |:-----------:|:------------------------------------------------|:--------------:|
 | done        | [Bastien Baranoff](https://bbaranoff.github.io) | quite good     |
-| todo        | ...                                             | nice           |
-| todo        | ...                                             | good           |
-| ...         | ...                                             | can do better  |
+| todo        | [Yazan Zeynel](https://bbaranoff.github.io)                                           | nice           |
+| todo        | [Conte Nolan](https://bbaranoff.github.io)        | good           |
+| ...         |  [Sullyvan De Amaro](https://sulyvandz.github.io)          |good     |
+| ...         |  [Mathieu Simon](https://w3ver.github.io)          | good    |
+| ...         |  [Jean Antoine Gimenez](https://jean-antoine-gimenez.github.io)          | good     |
+| ...         |  [Arnaud Bonnefoi](https://arnaud-iut.github.io)          | good      |
+| ...         |  [Clement Maurel](https://arnaud-iut.github.io)          | good  |
+| ...         |  [Luca Onali](https://luca-onali.github.io)          | good |
+| ...         |  [Brusny Ndala](https://brusny.github.io)          |good  |
 
+
+    
 ### Github
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
