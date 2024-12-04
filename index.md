@@ -6,7 +6,7 @@ layout: default
 
 This is how I `begin` ?
 
-[This is my portfolio](https://bbaranoff.github.io). 
+I am Bastien Baranoff and [this is my portfolio](https://bbaranoff.github.io). 
   
 This should be a portfolio collection for IUT de Carcassonne.
   
