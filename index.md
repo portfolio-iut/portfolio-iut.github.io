@@ -26,14 +26,12 @@ This should be a portfolio collection for IUT de Carcassonne.
 print("my best code !")
 ```
 
-test tableau
-
-| Nom          | Portfolio                                       | Appreciation |
-|--------------|-------------------------------------------------|--------------|
-| ok           | [Bastien Baranoff](https://bbaranoff.github.io) | quite good  |
-| out of stock | good and plenty                                 | nice  |
-| ok           | good `oreos`                                    | hmm   |
-| ok           | good `zoute` drop                               | yumm  |
+| Nom         | Portfolio                                       | Appreciation   |
+|-------------|-------------------------------------------------|----------------|
+| done        | [Bastien Baranoff](https://bbaranoff.github.io) | quite good     |
+| todo        | ...                                             | nice           |
+| todo        | ...                                             | good           |
+| ...         | ...                                             | can do better  |
 
 ### Github
 
