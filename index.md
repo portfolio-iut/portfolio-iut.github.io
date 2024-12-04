@@ -27,7 +27,7 @@ print("my best code !")
 ```
 
 | Nom         | Portfolio                                       | Appreciation   |
-|-------------|-------------------------------------------------|----------------|
+|:-----------:|:------------------------------------------------|:--------------:|
 | done        | [Bastien Baranoff](https://bbaranoff.github.io) | quite good     |
 | todo        | ...                                             | nice           |
 | todo        | ...                                             | good           |
