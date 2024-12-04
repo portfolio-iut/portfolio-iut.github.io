@@ -28,9 +28,9 @@ print("my best code !")
 
 test tableau
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
+| Nom          | Portfolio         | Appreciation |
+|:-------------|:------------------|:-------------|
+| ok           | https://bbaranoff.github.io | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
