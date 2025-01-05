@@ -41,7 +41,9 @@ print("my best code !")
 | ...         | [Danielle Tongue](https://danielletongue.github.io) | good |
 | ....        | [Imen Boulab](https://imenboulab.github.io)   | good |
 | ....        | [Salvetat Tony](https://salvetattony.github.io) | good |
-
+| ....        | [Deloffre Laura](https://lauradelo.github.io) | good |
+| ....        | [Rihani Malek](https://rihani26.github.io) | good |
+| ....        | [Bigard Remi](https://remibig.github.io) | good |
     
 ### Github
 
