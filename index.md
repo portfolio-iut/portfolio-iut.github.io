@@ -28,10 +28,10 @@ print("my best code !")
 
 | Nom         | Portfolio                                       | Appreciation   |
 |:-----------:|:------------------------------------------------|:--------------:|
-|Bastien Baranoff| ![Baranoff](https://bbaranoff.github.io)| ...     |
+|Bastien Baranoff| (https://bbaranoff.github.io)| ...     |
 |Yazan Zeynel | [Yazan](https://zeyneell.github.io)              |  9          |
-|Conte Nolan  | ![Conte](https://Nolan-66.github.io) |10 |
-|Sullyvan De Amaro |  ![Amaro](https://sullyvandz.github.io)          |10    |
+|Conte Nolan  | [Conte](https://Nolan-66.github.io) |10 |
+|Sullyvan De Amaro |  [Amaro](https://sullyvandz.github.io)          |10    |
 |Mathieu Simon|  ![Mathieu](https://w3ver.github.io)          | 9.5  |
 |Jean Antoine Gimenez|  ![Gimenez](https://jean-antoine-gimenez.github.io)   | 12   |
 |Arnaud Bonnefoi |  ![Bonnefoi](https://arnaud-iut.github.io)      |   10  |
